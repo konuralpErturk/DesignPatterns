@@ -31,7 +31,6 @@ public class Menu
             this.burgerType   = burgerType;
             this.sideMenuType = sideMenuType;
             this.drinkType    = drinkType;
-            this.toy          = "No Coke";
         }
 
         public MenuBuilder toy (String toy)
